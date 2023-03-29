@@ -82,7 +82,7 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
-- cd math-magicians
+- cd hello-react-frontend
 - run `npm install`.
 
 ### Usage
