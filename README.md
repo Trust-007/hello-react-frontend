@@ -26,91 +26,70 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 HELLO WORLD RAILS APP <a name="about-project"></a>
+# 📖 HELLO React frontend APP <a name="about-project"></a>
 
-> An api that provides random welcome messages to the front-end
+> HELLO REACT FRONTEND is a simple react application that fetches data from a rails api and displays it.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- Fetch greetings from rails API
-- Display A random Greeting
+- **[Uses Functional components]**
+- **[Uses React Router]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-<!-- ## 🚀 Live Demo <a name="live-demo"></a> -->
+## 🚀 Live Demo <a name="live-demo"></a>
 
-<!-- > Add a link to your deployed project. -->
+- [Live Demo Link](#)
 
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
-
 ### Prerequisites
 
 In order to run this project you need:
 
-```sh
- gem install rails
-```
+- A browser
+- A code editor or terminal
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-```sh
- git clone https://github.com/Trust-007/hello-rails-backend.git
-```
+- cd my-folder
+- git clone https://github.com/Trust-007/hello-react-frontend.git
 
 ### Install
 
 Install this project with:
 
-```
-  cd hello-rails-backend
-  bundle install
-```
-
-```
-  Setup database credentials
-  config/database.yml
-```
+- cd math-magicians
+- run `npm install`.
 
 ### Usage
 
 To run the project, execute the following command:
 
-```
-Bundle Install
-```
+- `npm start`
 
-```
-rails server
-```
-
-### Run tests
-
-To run tests, run the following command:
-
-```
-rspec spec --format documentation
-```
-
-<!-- ### Deployment
-
-You can deploy this project using:
-
-```
-
-```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- AUTHORS -->
 
 ## 👥 Authors <a name="authors"></a>
@@ -162,6 +141,6 @@ Thanks [@microverse](https://www.microverse.org/)
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Trust-007/hello-rails-backend/blob/setup/MIT.md) licensed.
+This project is [MIT](https://github.com/Trust-007/hello-react-frontend/blob/frontend/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
