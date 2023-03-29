@@ -30,6 +30,8 @@
 
 > HELLO REACT FRONTEND is a simple react application that fetches data from a rails api and displays it.
 
+[LINK TO BACKEND REPO](https://github.com/Trust-007/hello-rails-backend/)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -141,6 +143,6 @@ Thanks [@microverse](https://www.microverse.org/)
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/Trust-007/hello-react-frontend/blob/frontend/MIT.md) licensed.
+This project is [MIT](https://github.com/Trust-007/hello-react-frontend/blob/front-end/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
